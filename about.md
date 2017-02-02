@@ -5,7 +5,7 @@ permalink: /about/
 header-image: images/404.jpg
 ---
 
-有一个身份贯穿始终：学生
+永远只有一个身份：学生
 
 ### 微信公众号
 
