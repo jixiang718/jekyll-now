@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
+header-image: images/404.jpg
 ---
 
-Some information about you!
+有一个身份贯穿始终：学生
 
-### More Information
+### 微信公众号
 
-A place to include any other types of information that you'd like to include about yourself.
+有思有品
 
-### Contact me
+<!-- ### Contact me -->
 
-[email@domain.com](mailto:email@domain.com)
+<!-- [email@domain.com](mailto:email@domain.com) -->
