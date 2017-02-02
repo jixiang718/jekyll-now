@@ -3,9 +3,9 @@ layout: post
 title: AirPods 和它所代表的智能语音助理
 ---
 
-![airpods](../images/airpods.jpg)
-
 苹果在九月初的发布会上一口气发布了多款产品，最受瞩目的当然是iPhone 7。但是同时发布的耳机AirPods却并非仅仅是“iPhone 7没有了耳机插口”的替代解决方案。AirPods的意义非常大。
+
+![airpods](../images/airpods.jpg)
 
 # 它意义非凡...
 
