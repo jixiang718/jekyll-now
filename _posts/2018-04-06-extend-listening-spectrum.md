@@ -3,7 +3,7 @@ layout: post
 title: 丰富个人聆听边界的两个歌单
 ---
 
-Apple Music 上的一个播放列表，专注于「极简主义」音乐形式。极简主义(Minimalism)音乐是兴起于20世纪60年代美国东北部的一种全新的音乐形态。”极简“的意思并不是单纯的“简约”，而是指，运用尽量少的音乐材料，用一种重复的手法，在重复中逐渐变化音乐材料，使之不断发展和延续。
+Apple Music 上的一个播放列表，专注于「极简主义」音乐形式。极简主义(Minimalism)音乐是兴起于20世纪60年代美国东北部的一种全新的音乐形态。「极简」的意思并不是单纯的「简约」，而是指，运用尽量少的音乐材料，用一种重复的手法，在重复中逐渐变化音乐材料，使之不断发展和延续。
 
 [Apple Music 上的歌单「极简古典音乐」](https://link.zhihu.com/?target=https%3A//itunes.apple.com/cn/playlist/minimalism/pl.bb5b85902ebe413cbea8d168213739d8%3Fl%3Den)
 
